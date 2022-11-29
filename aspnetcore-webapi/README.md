@@ -4,7 +4,7 @@ This section contains articles about ASP.NET Core Web API related topics.
 
 ### Relevant articles:
 
-- [Using MassTransit with RabbitMQ in ASP.NET Core](https://code-maze.com/masstransit-rabbitmq-aspnetcore/)
+- [How to Use RabbitMQ in ASP.NET Core](https://code-maze.com/aspnetcore-rabbitmq/)
 - [ApiController Attribute in ASP.NET Core Web API](https://code-maze.com/apicontroller-attribute-in-asp-net-core-web-api/)
 - [Implementing API Gateway with Ocelot in ASP.NET Core](https://code-maze.com/aspnetcore-api-gateway-with-ocelot/)
 - [Creating Multiple Resources with a Single Request in ASP.NET Core](https://code-maze.com/aspnetcore-creating-multiple-resources-with-single-request/)
@@ -16,13 +16,18 @@ This section contains articles about ASP.NET Core Web API related topics.
 - [Using MassTransit with RabbitMQ in ASP.NET Core](https://code-maze.com/masstransit-rabbitmq-aspnetcore/)
 - [Minimal APIs in .NET 6](https://code-maze.com/dotnet-minimal-api/)
 - [How to Use ModelState Validation in ASP.NET Core Web API](https://code-maze.com/aspnetcore-modelstate-validation-web-api/)
+- [How to Build a Multitenant Application with ASP.NET Core](https://code-maze.com/aspnetcore-multitenant-application/)
 - [How to Add Multiple POST Actions in ASP.NET Core Web API](https://code-maze.com/aspnetcore-webapi-add-multiple-post-actions/)
 - [Optional Parameters in ASP.NET Core Web API Routing](https://code-maze.com/aspnetcore-web-api-optional-parameters/)
+- [Using Query String Parameters with Minimal APIs](https://code-maze.com/aspnetcore-query-string-parameters-minimal-apis/)
 - [Rate Limiting in ASP.NET Core Web API](https://code-maze.com/aspnetcore-web-api-rate-limiting/)
 - [How to Register Services for Different Environments in .NET](https://code-maze.com/aspnetcore-register-services-for-different-environments/)
-- [How to Return HTML From ASP.NET Core Web API](https://code-maze.com/aspnetcore-webapi-return-html/)
+- [Return File in ASP.NET Core Web API](https://code-maze.com/aspnetcore-register-services-for-different-environments/)
+- [How to Return HTML From ASP.NET Core Web API](https://code-maze.com/aspnetcore-web-api-return-file/)
+- [Web API Return Types in ASP.NET Core](https://code-maze.com/aspnetcore-web-api-return-types/)
 - [Serialization and Deserialization in C#](https://code-maze.com/serialization-deserialization-csharp/)
 - [Introduction to Google Charts With Angular and ASP.NET Core Web API](https://code-maze.com/google-charts-angular-aspnetcore-webapi/)
+- [Using OData with ASP.NET Core Web API](https://code-maze.com/aspnetcore-webapi-using-odata/)
 - [API Versioning in ASP.NET Core](https://code-maze.com/aspnetcore-api-versioning/)
 - [Vertical Slice Architecture in ASP.NET Core](https://code-maze.com/vertical-slice-architecture-aspnet-core/)
 - [Using RestSharp To Consume APIs in C#](https://code-maze.com/aspnetcore-using-restsharp-consume-api/)
