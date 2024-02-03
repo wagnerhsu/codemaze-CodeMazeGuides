@@ -351,5 +351,6 @@ MigrationBackup/
 
 **/*.idea/
 global.json
+.editorconfig
 
-/aspnetcore-webapi/ReturnFileWebApi/ReturnFileWebApi/wwwroot/lib/
+**/.DS_Store
